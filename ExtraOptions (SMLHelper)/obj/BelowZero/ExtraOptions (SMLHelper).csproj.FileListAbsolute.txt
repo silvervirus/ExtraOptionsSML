@@ -1,0 +1,4 @@
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\BelowZero\ExtraOptions (SMLHelper).csprojAssemblyReference.cache
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\BelowZero\ExtraOptions (SMLHelper).csproj.CoreCompileInputs.cache
+C:\Repos\Qmods\BelowZero\ExtraOptions\ExtraOptions.dll
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\BelowZero\ExtraOptions.dll

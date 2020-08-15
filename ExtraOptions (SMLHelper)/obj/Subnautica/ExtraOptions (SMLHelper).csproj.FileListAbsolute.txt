@@ -1,0 +1,4 @@
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\Subnautica\ExtraOptions (SMLHelper).csprojAssemblyReference.cache
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\Subnautica\ExtraOptions (SMLHelper).csproj.CoreCompileInputs.cache
+C:\Repos\Qmods\Subnautica\ExtraOptions\ExtraOptions.dll
+C:\Repos\optionsextra\ExtraOptions (SMLHelper)\obj\Subnautica\ExtraOptions.dll
