@@ -1,3 +1,3 @@
-Compiled against subnautica release, may work on experimental.
+Compiled against subnautica Below Zero release, works on subnautica experimental.
 
 ![](preview.jpg)
